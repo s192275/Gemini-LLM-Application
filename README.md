@@ -1,1 +1,1 @@
-# Gemini-LLM-Application
+This project aims creating LLM with Gemini Pro.
